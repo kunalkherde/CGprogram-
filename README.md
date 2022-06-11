@@ -1,2 +1,3 @@
 # CGprogram-
-This are the c code 
+praticals computer graphics
+
